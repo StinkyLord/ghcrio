@@ -1,1 +1,1 @@
-FROM ghcr.io/stinkylord/hello:0.1.0
+FROM ghcr.io/stinkylord/hello:0.1.2
